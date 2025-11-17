@@ -14,5 +14,5 @@ const showItems = app.get("/", (req, res) => {
 })
 
 module.exports = {
-    
+    showItems
 }
